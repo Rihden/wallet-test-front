@@ -4,7 +4,7 @@
     <div class="max-w-xl mx-auto">
       <div class="text-center">
         <h1 class="text-3xl font-bold text-gray-800 sm:text-4xl dark:text-white">
-          Generate business your card
+          Generate your business card
         </h1>
         <p class="mt-1 text-gray-600 dark:text-gray-400">Add your business card info</p>
       </div>
